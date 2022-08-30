@@ -21,15 +21,15 @@
 
 - <a href="https://codepen.io/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cyberteron" height="30" width="40" /></a>
 
-- <a href="https://dev.to/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cyberteron" height="30" width="40" /></a>
+ <a href="https://dev.to/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cyberteron" height="30" width="40" /></a>
 
-- <a href="https://twitter.com/codewhiteweb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyberteron1" height="30" width="40" /></a>
+<a href="https://twitter.com/codewhiteweb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyberteron1" height="30" width="40" /></a>
 
-- <a href="https://stackoverflow.com/users/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cyberteron" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cyberteron" height="30" width="40" /></a>
 
-- <a href="https://codesandbox.com/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codewhiteweb" height="30" width="40" /></a>
+<a href="https://codesandbox.com/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codewhiteweb" height="30" width="40" /></a>
 
-- <a href="https://instagram.com/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewhiteweb" height="30" width="40" /></a>
+<a href="https://instagram.com/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewhiteweb" height="30" width="40" /></a>
 
 <a href="https://www.behance.net/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="codewhiteweb" height="30" width="40" /></a>
 
